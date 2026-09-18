@@ -1,2 +1,2 @@
 # sobre-mi
-Soy Iván Bustamante Mendoza, tengo 19 años. Vivo en San Fernando, tengo una agencia de Marketing y estudio Desarrollo de Aplicaciones Web.
+Mi tecnología favorita es la IA, me apasiona aprender sobre ella, mejorar gracias a ella mucho más rápido y creo que es una tecnología de la que nos queda mucho por aprender.
